@@ -77,10 +77,11 @@ article p:nth-child(3) {
   width: 91%;
 }
 
-/*article p:nth-child(4) {
+article p:nth-child(4) {
   width: 88%;
 }
-article p:nth-child(5) {
+
+/*article p:nth-child(5) {
   width: 85%;
 }
 article p:nth-child(6) {
