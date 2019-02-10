@@ -65,10 +65,11 @@ header {
   margin-bottom: 100px;
 }
 
-/*article p:nth-child(1) {
+article p:nth-child(1) {
   width: 97%;
 }
-article p:nth-child(2) {
+
+/*article p:nth-child(2) {
   width: 94%;
 }
 article p:nth-child(3) {
