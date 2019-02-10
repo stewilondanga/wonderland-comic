@@ -105,10 +105,11 @@ article p:nth-child(10) {
   width: 70%;
 }
 
-/*article p:nth-child(11) {
+article p:nth-child(11) {
   width: 67%;
 }
-article p:nth-child(12) {
+
+/*article p:nth-child(12) {
   width: 64%;
 }
 article p:nth-child(13) {
