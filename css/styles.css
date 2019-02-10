@@ -170,7 +170,7 @@ article p:nth-child(25) {
   margin: 20px auto;
 }
 
-/*#contact h1 {
+#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
@@ -182,7 +182,7 @@ article p:nth-child(25) {
   border-bottom: 3px solid #f3f3f3;
 }
 
-.cal {
+/*.cal {
   display: inline-block;
   background: #ffe;
   color: #555;
