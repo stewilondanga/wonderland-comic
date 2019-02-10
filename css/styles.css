@@ -32,12 +32,12 @@ p {
   opacity: 0.1;
 }
 
-/*.alice-falling img {
+.alice-falling img {
   -webkit-transform: scaleX(-1);
-          transform: scaleX(-1);
+  transform: scaleX(-1);
 }
 
-#app {
+/*#app {
   padding: 1rem;
 }
 
