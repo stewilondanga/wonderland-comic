@@ -133,10 +133,11 @@ article p:nth-child(17) {
   width: 49%;
 }
 
-/*article p:nth-child(18) {
+article p:nth-child(18) {
   width: 46%;
 }
-article p:nth-child(19) {
+
+/*article p:nth-child(19) {
   width: 43%;
 }
 article p:nth-child(20) {
