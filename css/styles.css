@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,133 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+body {
+  font-family: "Roboto Slab", serif;
+  font-family: "Playfair Display", serif;
+  color: #333;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.alice-falling {
+  position: fixed;
+  bottom: 2rem;
+  right: -300px;
+  z-index: -1;
+  opacity: 0.1;
+}
+.alice-falling img {
+  -webkit-transform: scaleX(-1);
+          transform: scaleX(-1);
+}
+
+#app {
+  padding: 1rem;
+}
+
+h1,
+h2 {
+  margin: 0;
+  line-height: 1;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+}
+
+h3 {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+header {
+  margin-bottom: 100px;
+}
+
+article p:nth-child(1) {
+  width: 97%;
+}
+article p:nth-child(2) {
+  width: 94%;
+}
+article p:nth-child(3) {
+  width: 91%;
+}
+article p:nth-child(4) {
+  width: 88%;
+}
+article p:nth-child(5) {
+  width: 85%;
+}
+article p:nth-child(6) {
+  width: 82%;
+}
+article p:nth-child(7) {
+  width: 79%;
+}
+article p:nth-child(8) {
+  width: 76%;
+}
+article p:nth-child(9) {
+  width: 73%;
+}
+article p:nth-child(10) {
+  width: 70%;
+}
+article p:nth-child(11) {
+  width: 67%;
+}
+article p:nth-child(12) {
+  width: 64%;
+}
+article p:nth-child(13) {
+  width: 61%;
+}
+article p:nth-child(14) {
+  width: 58%;
+}
+article p:nth-child(15) {
+  width: 55%;
+}
+article p:nth-child(16) {
+  width: 52%;
+}
+article p:nth-child(17) {
+  width: 49%;
+}
+article p:nth-child(18) {
+  width: 46%;
+}
+article p:nth-child(19) {
+  width: 43%;
+}
+article p:nth-child(20) {
+  width: 40%;
+}
+article p:nth-child(21) {
+  width: 37%;
+}
+article p:nth-child(22) {
+  width: 34%;
+}
+article p:nth-child(23) {
+  width: 31%;
+}
+article p:nth-child(24) {
+  width: 28%;
+}
+article p:nth-child(25) {
+  width: 25%;
 }
 
 .containers {
