@@ -157,10 +157,11 @@ article p:nth-child(23) {
   width: 31%;
 }
 
-/*article p:nth-child(24) {
+article p:nth-child(24) {
   width: 28%;
 }
-article p:nth-child(25) {
+
+/*article p:nth-child(25) {
   width: 25%;
 }
 
