@@ -19,12 +19,12 @@ body {
   height: 1.5em;
 }
 
-/*p {
+p {
   font-size: 1.2rem;
   line-height: 1.5;
 }
 
-.alice-falling {
+/*.alice-falling {
   position: fixed;
   bottom: 2rem;
   right: -300px;
