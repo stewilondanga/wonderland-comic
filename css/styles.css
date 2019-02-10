@@ -89,10 +89,11 @@ article p:nth-child(6) {
   width: 82%;
 }
 
-/*article p:nth-child(7) {
+article p:nth-child(7) {
   width: 79%;
 }
-article p:nth-child(8) {
+
+/*article p:nth-child(8) {
   width: 76%;
 }
 article p:nth-child(9) {
